@@ -1,0 +1,18 @@
+.head {
+    width: 80%;
+    background-color: lightblue;
+    margin: 5%;
+    display: block;
+}
+.nav {
+    width: 10%;
+    background-color: lightblue;
+    margin: 2%;
+    display: inline-block;
+}
+.main {
+    width: 70%;
+    margin: 5%;
+    display:  inline-block;
+    background-color: lightblue;
+}
